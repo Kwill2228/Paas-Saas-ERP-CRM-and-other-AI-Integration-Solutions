@@ -10,25 +10,23 @@ E-commerce Sync: Connected Odoo with my Shopify storefront to centralize product
 
 <img width="839" height="574" alt="image" src="https://github.com/user-attachments/assets/ae5f06f2-693e-4ed2-b946-36247a186324" />
 
-
 Workflow Automation & Integration Management
 
-strategist and Method's used:
+#CRM Systems Experience:
+• Salesforce Sales Cloud and Marketing Cloud: Managed client interactions, tracked sales pipelines, and executed marketing campaigns.
+• EPIC, NexGen, Maestro, XLCare: Maintained patient and client records, ensuring compliance with healthcare regulations.
+• Odoo: Implemented and customized CRM solutions for personal e-commerce businesses, integrating automation to streamline operations.
+• Developer Tools: Zapier, App Automation and Intergration using API key generation to input and manage client data.
 
-Core concepts of BACCM, the Business Analysis Core Concept Model: 
+#strategist and Method's used:
 
-#Change, Need, Solution, Stakeholder, Value, and Context.
+#Core concepts of BACCM, the Business Analysis Core Concept Model: 
 
-#Communicate with stakeholders effectively while working on a brief.
-
-#Identify best mode of treatment or method including the best approach to resolve the communicated assignment to meet the needs of stakeholders.
-
-#Breaking a task into subtasks and handling the most common of them, such as exploratory analysis and data grouping.
-
-#Used pivot tables to answer specific business questions and communicate findings to stakeholders
-
-#Drawing conclusions and making recommendations based on data analysis
-
-#Prepare conclusions, visualizations and spreadsheets to be presented to stakeholders— using clear chart and spreadsheet formatting and documenting the work for future reference.
-
-#Share results of your work to produce impact and influence business decisions.
+•Change, Need, Solution, Stakeholder, Value, and Context.
+•Communicate with stakeholders effectively while working on a brief.
+•Identify best mode of treatment or method including the best approach to resolve the communicated assignment to meet the needs of stakeholders.
+•Breaking a task into subtasks and handling the most common of them, such as exploratory analysis and data grouping.
+•Used pivot tables to answer specific business questions and communicate findings to stakeholders
+•Drawing conclusions and making recommendations based on data analysis
+•Prepare conclusions, visualizations and spreadsheets to be presented to stakeholders— using clear chart and spreadsheet formatting and documenting the work for future reference.
+•Share results of your work to produce impact and influence business decisions.
