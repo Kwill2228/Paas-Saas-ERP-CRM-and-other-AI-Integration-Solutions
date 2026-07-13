@@ -13,10 +13,14 @@ E-commerce Sync: Connected Odoo with my Shopify storefront to centralize product
 Workflow Automation & Integration Management
 
 #CRM Systems Experience:
+
 • Salesforce Sales Cloud and Marketing Cloud: Managed client interactions, tracked sales pipelines, and executed marketing campaigns.
-• EPIC, NexGen, Maestro, XLCare: Maintained patient and client records, ensuring compliance with healthcare regulations.
-• Odoo: Implemented and customized CRM solutions for personal e-commerce businesses, integrating automation to streamline operations.
-• Developer Tools: Zapier, App Automation and Intergration using API key generation to input and manage client data.
+
+• healthcare CRM's - EPIC, NexGen, Maestro, XLCare: Maintained patient and client records, ensuring compliance with healthcare regulations.
+
+• Config Odoo: Business Workflow Operation Automation's - Implemented and customized CRM solutions for personal e-commerce businesses, integrating automation to streamline operations.
+
+• Developer Tools: Zapier ( form submission abd customer engagements in app), App Automation and Intergration of sales pipeline's, marketing campaign's, email and communication system,product invenory management system's,  using API key generation to input and manage client data and MORE.
 
 #strategist and Method's used:
 
