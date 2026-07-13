@@ -8,6 +8,7 @@ Inventory Automation: Integrated Odoo Inventory to monitor stock levels in real-
 Order Fulfillment: Streamlined order processing with Odoo’s Sales and Invoicing modules, reducing manual invoicing tasks and ensuring timely deliveries.
 E-commerce Sync: Connected Odoo with my Shopify storefront to centralize product management and reporting across platforms.
 
+<img width="839" height="574" alt="image" src="https://github.com/user-attachments/assets/ae5f06f2-693e-4ed2-b946-36247a186324" />
 
 
 Workflow Automation & Integration Management
