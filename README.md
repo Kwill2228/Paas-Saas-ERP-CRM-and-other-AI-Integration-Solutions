@@ -4,8 +4,11 @@ Customer Success Solutions implemented for B2B and B2C, project's.
 Odoo Platform Integration
 
 CRM & Sales Management: Used Odoo’s CRM module to track leads, manage customer interactions, and automate follow-ups, leading to improved customer retention and faster response times.
+
 Inventory Automation: Integrated Odoo Inventory to monitor stock levels in real-time, automatically reordering popular hair and jewelry products to prevent stockouts.
+
 Order Fulfillment: Streamlined order processing with Odoo’s Sales and Invoicing modules, reducing manual invoicing tasks and ensuring timely deliveries.
+
 E-commerce Sync: Connected Odoo with my Shopify storefront to centralize product management and reporting across platforms.
 
 <img width="839" height="574" alt="image" src="https://github.com/user-attachments/assets/ae5f06f2-693e-4ed2-b946-36247a186324" />
