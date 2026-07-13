@@ -23,10 +23,23 @@ Workflow Automation & Integration Management
 #Core concepts of BACCM, the Business Analysis Core Concept Model: 
 
 •Change, Need, Solution, Stakeholder, Value, and Context.
+
 •Communicate with stakeholders effectively while working on a brief.
+
 •Identify best mode of treatment or method including the best approach to resolve the communicated assignment to meet the needs of stakeholders.
+
 •Breaking a task into subtasks and handling the most common of them, such as exploratory analysis and data grouping.
+
 •Used pivot tables to answer specific business questions and communicate findings to stakeholders
+
+<img width="851" height="399" alt="image" src="https://github.com/user-attachments/assets/07ce892c-80ca-478e-892b-40d68ab84f9a" />
+
 •Drawing conclusions and making recommendations based on data analysis
+
+<img width="760" height="589" alt="image" src="https://github.com/user-attachments/assets/7614965b-e5cc-4703-a25c-4ecfb7eb0c7f" />
+
 •Prepare conclusions, visualizations and spreadsheets to be presented to stakeholders— using clear chart and spreadsheet formatting and documenting the work for future reference.
+
+<img width="840" height="450" alt="image" src="https://github.com/user-attachments/assets/de40a8fa-e493-4e42-ba6a-a1e14243d5c2" />
+
 •Share results of your work to produce impact and influence business decisions.
